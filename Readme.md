@@ -14,6 +14,10 @@ Shoutit is a PHP powered shoutbox which uses mySQL to store shouts. This is a ve
  [ShoutIt](http://jyotsna-singh-com.stackstaging.com/projects/php/ShoutIt/)
 
 ## Snapshots
+
+ **Home - View All Shouts** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/PHP-ShoutBox/blob/master/img/shout.PNG)   |
   
 
 
