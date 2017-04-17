@@ -1,4 +1,4 @@
-# ShoutIt Shoutbox
+# ![alt tag](https://github.com/Jyotsna-Singh/PHP-ShoutBox/blob/master/img/logo.PNG)
 
 Shoutit is a PHP powered shoutbox which uses mySQL to store shouts. This is a very basic PHP/MySQL application. It is strictly procedural coding and uses the mysqli api. Users can post shouts along with their names.
 
@@ -10,8 +10,8 @@ Shoutit is a PHP powered shoutbox which uses mySQL to store shouts. This is a ve
 ## Version
 1.0.0
 
-## Live Demo
- [ShoutIt](http://jyotsna-singh-com.stackstaging.com/projects/php/ShoutIt/)
+## Live Demo - ShoutIt
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/php/ShoutIt/)
 
 ## Snapshots
 
